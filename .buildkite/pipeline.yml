@@ -1,0 +1,3 @@
+steps:
+  - label: ":hammer: Hello World Example Script"
+    command: "script.sh"
